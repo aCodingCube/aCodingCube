@@ -1,4 +1,4 @@
-# Hi I'm Lorenz
+# Hi, I'm Lorenz
 
 I code in C++ <br/>
 and sometimes in JS/HTML/CSS <br/>
