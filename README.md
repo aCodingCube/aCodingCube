@@ -1,5 +1,7 @@
 # Hi, I'm Lorenz
-I love working on low level projects 
+I love working on low level projects <br/>
+I mostly code in C++ <br/>
+and sometimes in JS/HTML/CSS <br/>
 
 
 # 💻 Tech Stack:
